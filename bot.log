@@ -1,0 +1,10 @@
+2025-07-11 09:30:09,034 - ERROR - Error placing market order: APIError(code=None): None
+2025-07-11 09:41:27,188 - ERROR - Error placing market order: APIError(code=None): None
+2025-07-11 09:47:06,506 - ERROR - Error placing market order: APIError(code=None): None
+2025-07-11 09:50:41,200 - ERROR - Error placing market order: APIError(code=None): None
+2025-07-11 09:55:04,716 - INFO - [MOCK] Market Order: BUY 0.01 BTCUSDT
+2025-07-11 09:56:05,138 - INFO - [MOCK] Limit Order: SELL 0.01 BTCUSDT @ 60000.0
+2025-07-11 09:56:52,409 - INFO - [MOCK] Stop-Limit Order: SELL 0.01 BTCUSDT | Stop: 58000.0, Limit: 57900.0
+2025-07-11 10:07:10,525 - INFO - [MOCK] Market Order: BUY 0.01 BTCUSDT
+2025-07-11 10:08:16,450 - INFO - [MOCK] Limit Order: SELL 0.01 BTCUSDT @ 60000.0
+2025-07-11 10:09:04,146 - INFO - [MOCK] Stop-Limit Order: SELL 0.01 BTCUSDT | Stop: 58000.0, Limit: 57900.0
